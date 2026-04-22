@@ -1,6 +1,10 @@
 # Child of All Ages
 
-A fan-fiction expansion of Philip Plauger's *Child of All Ages*. Melissa is an immortal girl eternally trapped in a 14-year-old's body. Across 2,500 years — from Ancient Greece to an asteroid belt colony in 2186 — she masters survival, forgery, and deception to hide the fact that she never ages.
+A fan-fiction expansion of Philip Plauger's *Child of All Ages*.
+
+Melissa is chronologically ancient but physically frozen just shy of her fourteenth birthday. To survive, she has to do more than forge papers and change names: she also has to maintain the formula her father used on her, preserve her memory across centuries, and leave every life before suspicion hardens into danger.
+
+Across roughly 2,600 years — from Athens in 445 BC to an asteroid-belt habitat in 2186 — each chapter shows her adapting to the counting system of a new era: gossip, ports, libraries, workhouses, police ledgers, school databases, and finally biometric infrastructure.
 
 ---
 
@@ -8,32 +12,32 @@ A fan-fiction expansion of Philip Plauger's *Child of All Ages*. Melissa is an i
 
 ### 1. [Transit: Buenos Aires, 1924](melissa-01.md)
 
-Melissa arrives in Argentina among thousands of European immigrants. Buenos Aires is just another stop in her endless journey — a city where people are too busy surviving to notice a girl who never grows up. She has perfected the art of disappearing every few years, but a new identity requires a new "family," and finding one is never simple.
+Melissa arrives in Argentina with a hand-picked German watchmaker playing the role of guardian. The chapter follows the real work behind a new identity: immigration control, lodging, neighborhood registration, school cover, hidden reserves, and routes out of the city before anyone starts asking the wrong questions.
 
-### 2. [Source Code: Peloponnese, 386 BC](melissa-02.md)
+### 2. [The Road Begins: Athens, 445 BC](melissa-02.md)
 
-The beginning. Melissa watches her childhood friend Kleon grow into a man while she remains unchanged. This is the chapter of first realization — the moment she understands that her stillness is not a gift but a sentence, and that she must leave everyone she has ever known.
+The origin chapter. Melissa is still not quite fourteen when her father's experiment leaves her body fixed in place and dependent on a carefully maintained formula. As neighbors, healers, and childhood friends begin to notice that she is not changing, she understands that departure will become the permanent shape of her life.
 
 ### 3. [Shadow Architecture: Santa Clara, California, 1986](melissa-03.md)
 
-For the first time in her long life, Melissa feels she is losing control. The paper archives she has manipulated for centuries are giving way to digital databases. A bureaucratic mismatch in a school district form threatens to expose her — and she must learn to hack the emerging digital world before it traps her.
+Paper mistakes no longer stay local. A single date mismatch between school and medical systems threatens to unravel Melissa's cover, forcing her to move from forged folders to dial-up service ports, vendor accounts, and the first truly modern version of her survival craft.
 
 ### 4. [Age of Sail: Coast of Panama, 1670](melissa-04.md)
 
-Disguised as a mute cabin boy named Mateo aboard the trading sloop *Santa Catalina*, Melissa finds her ideal existence: a life at sea, where there are no censuses, no parish records, and no curious neighbors. The ocean is the perfect ally for an eternal nomad.
+Disguised as a mute cabin boy named Mateo, Melissa lives in the one environment that almost never asks how old she is: a working coastal trader. The chapter expands shipboard life, hidden maintenance of her formula, and a reef-and-squall crisis that makes her competence too visible for comfort.
 
 ### 5. [Memory Vault: Alexandria, 200 BC](melissa-05.md)
 
-Two centuries after leaving Greece, Melissa discovers a terrifying new threat — her own memory is failing. She cannot store millennia of experience in a teenage brain. Working as a scribe's assistant in the Great Library, she begins building a system to preserve herself from the inside out.
+In the Great Library, Melissa confronts a danger more intimate than violence: forgetting. As she searches the collections for knowledge related to her father's formula, she begins building the inner archive that will let her carry people, places, and procedures through centuries without dissolving into fragments.
 
 ### 6. [Paper Machine: London, 1852](melissa-06.md)
 
-The Industrial Revolution has brought a new danger: bureaucracy. When her guardian dies of cholera, Melissa is swept up by parish inspectors and placed in a workhouse. For the first time, the state is trying to catalog her — and she must outmaneuver the machinery of the British Empire to escape.
+After her guardian dies, Melissa is pulled into a Victorian workhouse and processed as a poor child to be sorted, logged, and reassigned. Here she learns that modern power does not need superstition to be deadly; it only needs forms, clerks, and routes that carry children away like parcels.
 
 ### 7. [Synthetic Void: Orbital Colony "Tereshkova-9", Asteroid Belt, 2186](melissa-07.md)
 
-Humanity has reached deep space, and with it came total biometric surveillance. The station doesn't just know who you are — it breathes with you. Melissa must manipulate autonomous AI systems and fabricate fake health telemetry to hide the fact that her cells show zero signs of aging under cosmic radiation.
+Deep space offers freedom only at a distance. Inside a sealed orbital habitat, Melissa has to hide from systems that read breath chemistry, tissue turnover, and age-linked biological signatures as casually as older states once read passports. Her answer is a shadow network built from neglected machines and careful timing.
 
 ### 8. [Permafrost: Northern Seas, 900 AD](melissa-08.md)
 
-Aboard a Viking longship in the freezing Norwegian Sea, Melissa faces a simple, ancient threat: cold. No technology, no forgery — just iron discipline keeping blood moving through her veins. A quiet, emotional chapter that strips away all complexity and returns to the core of who she is: a survivor.
+Among Norse settlers sailing west, Melissa faces the oldest version of her problem: people notice when a girl does not grow. Aboard a cold, overloaded knarr bound for Iceland, survival depends on endurance, observation, and on leaving just after gratitude turns into fear.
