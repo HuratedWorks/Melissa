@@ -10,6 +10,7 @@ default_output='melissa-all.md'
 default_separator='\n***\n'
 
 sources=("$default_source")
+source_files=()
 use_default_sources=true
 output_file="$default_output"
 separator_raw="$default_separator"
@@ -57,11 +58,25 @@ normalize_path() {
   printf '%s' "$value"
 }
 
+contains_path() {
+  local needle="$1"
+  shift || true
+  local item
+
+  for item in "$@"; do
+    if [[ "$item" == "$needle" ]]; then
+      return 0
+    fi
+  done
+
+  return 1
+}
+
 collect_sources() {
   local spec match
   local -a matches=()
-  local -a resolved=()
-  declare -A seen=()
+
+  source_files=()
 
   for spec in "${sources[@]}"; do
     matches=()
@@ -85,16 +100,13 @@ collect_sources() {
 
       match="$(normalize_path "$match")"
 
-      if [[ -n "${seen[$match]+x}" ]]; then
+      if contains_path "$match" "${source_files[@]}"; then
         continue
       fi
 
-      seen["$match"]=1
-      resolved+=("$match")
+      source_files+=("$match")
     done
   done
-
-  printf '%s\0' "${resolved[@]}"
 }
 
 render_output() {
@@ -193,7 +205,7 @@ fi
 separator_value="$(printf '%b' "$separator_raw")"
 output_norm="$(normalize_path "$output_file")"
 
-mapfile -d '' -t source_files < <(collect_sources)
+collect_sources
 
 if ((${#source_files[@]} == 0)); then
   die "no source files collected"
