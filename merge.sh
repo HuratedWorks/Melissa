@@ -100,7 +100,7 @@ collect_sources() {
 
       match="$(normalize_path "$match")"
 
-      if contains_path "$match" "${source_files[@]}"; then
+      if ((${#source_files[@]} > 0)) && contains_path "$match" "${source_files[@]}"; then
         continue
       fi
 
