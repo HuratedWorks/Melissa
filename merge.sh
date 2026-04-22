@@ -202,7 +202,7 @@ if [[ "$command" != "all" ]]; then
   die "unsupported command '${command}'"
 fi
 
-separator_value="$(printf '%b' "$separator_raw")"
+printf -v separator_value '%b' "$separator_raw"
 output_norm="$(normalize_path "$output_file")"
 
 collect_sources
