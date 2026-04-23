@@ -36,7 +36,7 @@ After her guardian dies, Melissa is pulled into a Victorian workhouse and proces
 
 ### 7. [Synthetic Void: Orbital Colony "Tereshkova-9", Asteroid Belt, 2186](melissa-07.md)
 
-Deep space offers freedom only at a distance. Inside a sealed orbital habitat, Melissa has to hide from systems that read breath chemistry, tissue turnover, and age-linked biological signatures as casually as older states once read passports. Her answer is a shadow network built from neglected machines and careful timing.
+Deep space offers freedom only at a distance. Inside a sealed orbital habitat, Melissa has to hide from systems that read breath chemistry, tissue turnover, and age-linked biological signatures as casually as older states once read passports. Her answer is a shadow network built from neglected machines, careful timing, and a half-convincing adult telepresence shell that finally lets her project something like a grown body into bureaucracy.
 
 ### 8. [Permafrost: Northern Seas, 900 AD](melissa-08.md)
 
@@ -53,3 +53,7 @@ In postwar Philadelphia, Melissa relies on one of the rare adults who knows the 
 ### 11. [Locked Yard: Northern California, 2004](melissa-11.md)
 
 Melissa falls into the orbit of a private captivity system hidden behind an ordinary suburban fence. The chapter treats the danger as coercion, routine, and survival, ending with an escape that has to save another girl without leaving Melissa in the official story.
+
+### 12. [Remote Appearance: USA, 2021](melissa-12.md)
+
+The pandemic briefly makes Melissa's way of life easier: remote school, remote guardianship, and adult identities that can survive on screens longer than in person. The same period also reveals the new limit of digital autonomy, as liveness checks and KYC systems begin demanding not just a face and a story but a physically coherent adult body.
