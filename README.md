@@ -2,9 +2,9 @@
 
 A fan-fiction expansion of Philip Plauger's *Child of All Ages*.
 
-Melissa is chronologically ancient but physically frozen just shy of her fourteenth birthday. To survive, she has to do more than forge papers and change names: she also has to maintain the formula her father used on her, preserve her memory across centuries, and leave every life before suspicion hardens into danger.
+Melissa is chronologically ancient but physically frozen just shy of puberty, usually carried on paper as nearly fourteen. To survive, she has to do more than forge papers and change names: she also has to maintain the formula her father used on her, preserve her memory across centuries, and leave every life before suspicion hardens into danger.
 
-Across roughly 2,600 years — from Athens in 445 BC to an asteroid-belt habitat in 2186 — each chapter shows her adapting to the counting system of a new era: gossip, ports, libraries, workhouses, police ledgers, school databases, and finally biometric infrastructure.
+Across roughly 2,600 years — from Athens in the mid-fifth century BC to an asteroid-belt habitat in 2186 — each chapter shows her adapting to the counting system of a new era: gossip, ports, libraries, empty countryside, workhouses, police ledgers, school databases, and finally biometric infrastructure.
 
 ---
 
@@ -14,7 +14,7 @@ Across roughly 2,600 years — from Athens in 445 BC to an asteroid-belt habitat
 
 Melissa arrives in Argentina with a hand-picked German watchmaker playing the role of guardian. The chapter follows the real work behind a new identity: immigration control, lodging, neighborhood registration, school cover, hidden reserves, and routes out of the city before anyone starts asking the wrong questions.
 
-### 2. [The Road Begins: Athens, 445 BC](melissa-02.md)
+### 2. [The Road Begins: Athens, circa 455 BC](melissa-02.md)
 
 The origin chapter. Melissa is still not quite fourteen when her father's experiment leaves her body fixed in place and dependent on a carefully maintained formula. As neighbors, healers, and childhood friends begin to notice that she is not changing, she understands that departure will become the permanent shape of her life.
 
@@ -41,3 +41,7 @@ Deep space offers freedom only at a distance. Inside a sealed orbital habitat, M
 ### 8. [Permafrost: Northern Seas, 900 AD](melissa-08.md)
 
 Among Norse settlers sailing west, Melissa faces the oldest version of her problem: people notice when a girl does not grow. Aboard a cold, overloaded knarr bound for Iceland, survival depends on endurance, observation, and on leaving just after gratitude turns into fear.
+
+### 9. [Empty Lands: Central Europe, 1349](melissa-09.md)
+
+During the Black Death, Melissa discovers that abandoned land is only another temporary refuge. Alone above a dead village, she survives by traps, caches, and notes written in ancient Greek cipher until the first signs of repopulation make even emptiness unsafe.
