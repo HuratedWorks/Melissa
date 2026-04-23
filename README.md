@@ -49,3 +49,7 @@ During the Black Death, Melissa discovers that abandoned land is only another te
 ### 10. [Borrowed Shelter: Philadelphia, 1819](melissa-10.md)
 
 In postwar Philadelphia, Melissa relies on one of the rare adults who knows the truth. Together they recover an old cache, convert buried wealth into usable paper, and prove that in the modern world an adult signature can matter more than gold.
+
+### 11. [Locked Yard: Northern California, 2004](melissa-11.md)
+
+Melissa falls into the orbit of a private captivity system hidden behind an ordinary suburban fence. The chapter treats the danger as coercion, routine, and survival, ending with an escape that has to save another girl without leaving Melissa in the official story.
