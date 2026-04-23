@@ -45,3 +45,7 @@ Among Norse settlers sailing west, Melissa faces the oldest version of her probl
 ### 9. [Empty Lands: Central Europe, 1349](melissa-09.md)
 
 During the Black Death, Melissa discovers that abandoned land is only another temporary refuge. Alone above a dead village, she survives by traps, caches, and notes written in ancient Greek cipher until the first signs of repopulation make even emptiness unsafe.
+
+### 10. [Borrowed Shelter: Philadelphia, 1819](melissa-10.md)
+
+In postwar Philadelphia, Melissa relies on one of the rare adults who knows the truth. Together they recover an old cache, convert buried wealth into usable paper, and prove that in the modern world an adult signature can matter more than gold.
