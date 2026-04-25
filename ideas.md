@@ -300,6 +300,48 @@ If new chapters are added later:
   - helping her survive the transition back into the world
   - avoiding police attention without feeling indifferent to the victim
 
+### 6. Makeup, prosthetics, and the failed short-adult strategy
+
+**User note**:
+- Melissa's height may be typical for a twelve-year-old, which also means she could sometimes pass as a very short adult woman if her face looked right.
+- Clothing can hide or imitate some adult body proportions.
+- She probably tried realistic makeup, wigs, padding, posture, and later prosthetics as soon as each became available.
+- We need a reason this does not become her main solution.
+
+**Take**:
+- Strong, and it belongs to the same long arc as masks, telepresence, adult proxies, and future robot bodies.
+- Best formulation:
+  - makeup can help in **controlled conditions**: photographs, low light, stage distance, quick errands, video calls, and carefully framed remote checks
+  - it fails as a stable daily adult identity because close human attention reads more than the face
+- Combined explanation:
+  1. **Skin / chemistry problem**
+     - Melissa's treatment keeps her tissues in an unusual repair state.
+     - Strong pigments, adhesives, solvents, latexes, spirit gums, and later silicone prosthetic glues often irritate her face faster than they would an ordinary adult's skin.
+     - The reaction does not need to be dramatic every time; burning, swelling around the eyes, peeling, rash, or unnatural redness are enough to ruin the disguise.
+     - This fits the potion's existing photo-reactive / chemically delicate canon without making her allergic to everything.
+  2. **Maintenance problem**
+     - Aging makeup is fragile under sweat, rain, tears, heat, bad light, touch, and long wear.
+     - Melissa cannot risk being examined while the face is half-failing, because then the story becomes more memorable than if she had never tried.
+  3. **Close-range body problem**
+     - Even if the face works, adults notice voice, hands, neck, gait, shoulders, body proportions, hesitation around adult social rituals, and the way other people instinctively treat her.
+     - Clothes can add shape, but they cannot create bone structure, adult skin texture, or the social ease of occupying a body that fits the role.
+  4. **Historical materials problem**
+     - Earlier cosmetics and theatrical aging methods are often crude, toxic, strongly scented, class-coded, or visible in daylight.
+     - They may make her look ill, painted, theatrical, or morally suspicious rather than simply adult.
+  5. **Modern detection problem**
+     - The better makeup gets, the better cameras, ID checks, liveness tests, and biometric systems also get.
+     - A disguise good enough for a clerk may fail under a phone camera, a passport light, or a medical scan.
+- The first serious failure could be a useful future scene:
+  - she tries an adult face for a short transaction
+  - pain starts under the adhesive or pigment
+  - she has to wash it off too early
+  - the reaction leaves her face swollen or raw enough that she must hide for days
+  - she records the formula and brand / material in Greek cipher as another closed door
+- This should not erase the tactic entirely.
+  - She still uses makeup sparingly.
+  - It is especially useful for **remote adult identities** and **short video interactions**.
+  - It explains why she moves toward digital face replacement, hired adults, telepresence, and eventually adult-presenting machines instead of relying on cosmetics alone.
+
 ---
 
 ## Additional ideas worth considering
