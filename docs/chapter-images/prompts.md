@@ -1,0 +1,97 @@
+# Melissa Image Prompts
+
+## Chapter 1
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Buenos Aires harbor in 1924, early morning fog, cranes and crowded immigrant docks emerging behind a steamship rail. Melissa travels as Elizabeth Kaufman in a worn European coat and simple hat, standing close to an anxious German clockmaker who holds their papers. She studies the immigration hall ahead, alert to officials, luggage, wet wood, coal smoke, and the muddy silver light of the Rio de la Plata.
+
+## Chapter 2
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Athens around 455 BCE, hot late-summer light over a small house on a slope above the road to Piraeus. Melissa wears a plain linen chiton and a worn wool cloak, holding a wrapped dark clay vessel and a small knife. Behind her are olive trees, a low wall, drying herbs, clay jars, and the distant Acropolis in violet haze; a young fisherman with oars walks away below, making her isolation visible.
+
+## Chapter 3
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Santa Clara, California, 1986, a cluttered garage at night lit by a green terminal screen and a metal desk lamp. Melissa wears jeans, an oversized sweatshirt, and simple sneakers, sitting at a workbench with a modem, dot-matrix printer, UNIX manuals, loose circuit boards, school paperwork, and handwritten phone numbers. The open high window hints at orange trees and a distant highway while she quietly changes a record that could expose her.
+
+## Chapter 4
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Panama coast, 1670, the deck of the Spanish sloop Santa Catalina in a sudden tropical squall. Melissa is disguised as the mute cabin boy Mateo in loose sailor clothes, wet hair hidden under a cap, one hand on a rope as she points toward a hidden reef. The ship heels hard, rain blurs the jungle coast, sailors scramble at the rigging, and warm sea foam breaks over the rail.
+
+## Chapter 5
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Library of Alexandria, 200 BCE, a side room near the natural philosophy collection. Melissa wears a simple Hellenistic linen dress, sitting by a low table with papyrus rolls, reed pens, tags, a dark oil jar, and a hidden small vessel wrapped in cloth. Columns and shelves recede behind her; sea light enters from a high opening while an older scholar passes in the background, unaware that she is building a memory palace.
+
+## Chapter 6
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: London, 1852, a dim workhouse laundry and office corridor at night. Melissa, known as Mary Watson, wears a coarse grey workhouse dress and stands barefoot near baskets of wet linen, holding a forged parish letter and a small candle stub. The air is smoky and damp; ledgers, wax, cheap paper, and locked doors show the machinery of bureaucracy she is about to use for escape.
+
+## Chapter 7
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Orbital colony Tereshkova-9, asteroid belt, 2186, hydroponic sector under artificial light. Melissa, registered as Elara Vance, wears a practical station jumpsuit and stands still while a small diagnostic drone scans her. Green algae trays, condensation, metal dust, interface light, and a black observation window frame distant mining platforms outside; her face remains controlled while hidden systems work around her.
+
+## Chapter 8
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Northern seas, year 900, a heavy Norse knarr in freezing mist as settlers search for Iceland. Melissa, called Astrid, wears layered wool, a fur-edged cloak, and a head covering against sleet; she sits low near the gunwale, watching a raven fly toward land. Families, sheep, chests, wet ropes, dark water, and a pale strip of emerging coast surround her with harsh cold and suspicion.
+
+## Chapter 9
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Central Europe, 1349, the edge of an abandoned plague village in early spring. Melissa wears a patched wool dress, rough cloak, and belt pouch, crouched beside a concealed forest shelter under beech roots with wax tablets, a dark vessel, dried herbs, and a small knife. Below her are empty cottages, crooked fences, thin smoke from returning survivors, and a road where distant flagellants have passed.
+
+## Chapter 10
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Philadelphia, 1819, after rain in an overgrown garden beyond the city edge. Melissa, using the name Annie Marsh, wears a plain grey cloak and bonnet, kneeling beside Hannah Bell as they open a weather-damaged oak box beneath an old pear tree. Silver coins, ruined papers, jewelry, wet soil, rusted tools, and morning light show money turning into time during the Panic of 1819.
+
+## Chapter 11
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Northern California suburbs, 2004, a harshly lit convenience store parking lot at night after an escape. Melissa wears jeans, a faded hoodie, and scuffed sneakers, standing half in shadow near a payphone while Kelly sits inside under fluorescent lights with a folder of evidence. Gas pumps, cheap coffee, parked cars, and distant siren light create the ordinary world returning around a hidden rescue.
+
+## Chapter 12
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: United States, 2021, a narrow studio apartment above a laundromat during remote schooling. Melissa, living as Mira Collins, wears a plain T-shirt and hoodie, seated among laptops, a tablet, ring light, grey backdrop, routers, cables, an open school portal, and a synthetic adult face model on a shelf. Morning city light and multiple glowing rectangles frame the moment she realizes video cannot replace an adult body.
