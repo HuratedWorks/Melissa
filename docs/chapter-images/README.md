@@ -2,7 +2,7 @@
 
 Generated chapter-illustration comparisons and reusable prompts.
 
-All chapter prompts are in [prompts.md](prompts.md). Each prompt starts with the same Melissa character description, followed by the same shared visual style.
+All chapter prompts are in [prompts.md](prompts.md). The original-story prompt is in [original-story-prompt.md](original-story-prompt.md). Each prompt starts with the same Melissa character description, followed by the same shared visual style.
 
 | Chapter | FLUX.2-pro<br>`azure_bfl` | gpt-image-2-1<br>`openai_gpt_image` |
 |---|---|---|
@@ -18,3 +18,4 @@ All chapter prompts are in [prompts.md](prompts.md). Each prompt starts with the
 | Chapter 10. Заемный кров: Филадельфия, 1819 год<br>[Prompt](prompts.md#chapter-10) | <img src="melissa-ch10-flux2.png" width="320" alt="Chapter 10 image generated with FLUX.2-pro"> | <img src="melissa-ch10-gpt2.png" width="320" alt="Chapter 10 image generated with gpt-image-2-1"> |
 | Chapter 11. Запертый двор: Северная Калифорния, 2004 год<br>[Prompt](prompts.md#chapter-11) | <img src="melissa-ch11-flux2.png" width="320" alt="Chapter 11 image generated with FLUX.2-pro"> | <img src="melissa-ch11-gpt2.png" width="320" alt="Chapter 11 image generated with gpt-image-2-1"> |
 | Chapter 12. Удаленная явка: США, 2021 год<br>[Prompt](prompts.md#chapter-12) | <img src="melissa-ch12-flux2.png" width="320" alt="Chapter 12 image generated with FLUX.2-pro"> | <img src="melissa-ch12-gpt2.png" width="320" alt="Chapter 12 image generated with gpt-image-2-1"> |
+| Original story. Child of All Ages<br>[Prompt](original-story-prompt.md) | Not generated | <img src="melissa-original-story-gpt2.png" width="320" alt="Original story image generated with gpt-image-2-1"> |

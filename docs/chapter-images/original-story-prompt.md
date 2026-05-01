@@ -1,0 +1,7 @@
+# Original Story Image Prompt
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Original story "Child of All Ages", late twentieth-century American town at midnight in cold rain. Melissa is disguised as a quiet boy in a thin damp baseball jacket, plain trousers, worn sneakers, and a dark cap pushed back so her face is clearly visible in soft side light; strands of ash-brown hair show at the edges, and her watchful grey-green eyes and guarded expression must be sharp, natural, and unobscured. She steps away from a small church with stained-glass windows and crosses a wet street toward the warm glow of an old movie theater; the marquee is only abstract unreadable blocks of light, not legible lettering. Rainwater shines in the gutter, empty sidewalks and parked cars recede into drizzle, and the contrast between the church's cold stone shadows and the theater's inviting darkness shows her leaving another life behind while staying watchful for pursuit. No blurred face, no hidden face, no mask, no facial obstruction.
