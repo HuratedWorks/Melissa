@@ -30,7 +30,7 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
-Scene: Panama coast, 1670, the deck of the Spanish sloop Santa Catalina in a sudden tropical squall. Melissa is disguised as the mute cabin boy Mateo in loose sailor clothes, wet hair hidden under a cap, one hand on a rope as she points toward a hidden reef. The ship heels hard, rain blurs the jungle coast, sailors scramble at the rigging, and warm sea foam breaks over the rail.
+Scene: Panama coast, 1670, a calm merchant sailboat at anchor in Portobelo harbor after tropical rain. Melissa is disguised as the mute cabin boy Mateo in loose sailor clothes, wet hair hidden under a cap, one hand resting on coiled rope as she studies the pale reef line beyond the rail. The jungle coast, damp sailcloth, warm sea haze, wooden deck, and quiet sailors in the background show her life at sea.
 
 ## Chapter 5
 
@@ -54,7 +54,7 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
-Scene: Orbital colony Tereshkova-9, asteroid belt, 2186, hydroponic sector under artificial light. Melissa, registered as Elara Vance, wears a practical station jumpsuit and stands still while a small diagnostic drone scans her. Green algae trays, condensation, metal dust, interface light, and a black observation window frame distant mining platforms outside; her face remains controlled while hidden systems work around her.
+Scene: Future space habitat, 2186, a hydroponic garden under cool artificial light. Melissa wears a practical station jumpsuit and stands beside green algae trays while a small maintenance robot hovers nearby. Condensation, metal dust, soft interface light, service panels, and a black observation window with distant work platforms outside frame her controlled expression and careful life in a closed station.
 
 ## Chapter 8
 
@@ -70,7 +70,7 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
-Scene: Central Europe, 1349, the edge of an abandoned plague village in early spring. Melissa wears a patched wool dress, rough cloak, and belt pouch, crouched beside a concealed forest shelter under beech roots with wax tablets, a dark vessel, dried herbs, and a small knife. Below her are empty cottages, crooked fences, thin smoke from returning survivors, and a road where distant flagellants have passed.
+Scene: Central Europe, 1349, the edge of a quiet abandoned village in early spring after a hard winter. Melissa wears a patched wool dress, rough cloak, and belt pouch, crouched beside a concealed forest shelter under beech roots with wax tablets, a dark vessel, dried herbs, and a small knife. Below her are empty cottages, crooked fences, thin smoke from returning families, and a muddy road through cold morning light.
 
 ## Chapter 10
 
@@ -86,7 +86,7 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
-Scene: Northern California suburbs, 2004, a harshly lit convenience store parking lot at night after an escape. Melissa wears jeans, a faded hoodie, and scuffed sneakers, standing half in shadow near a payphone while Kelly sits inside under fluorescent lights with a folder of evidence. Gas pumps, cheap coffee, parked cars, and distant siren light create the ordinary world returning around a hidden rescue.
+Scene: Northern California suburbs, 2004, a harshly lit convenience store parking lot late at night. Melissa wears jeans, a faded hoodie, and scuffed sneakers, standing half in shadow near a payphone while Kelly sits inside under fluorescent lights with a folder clutched to her chest. Gas pumps, cheap coffee, parked cars, and distant blue-red reflections create the ordinary world returning around a quiet act of help.
 
 ## Chapter 12
 
@@ -94,4 +94,4 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
-Scene: United States, 2021, a narrow studio apartment above a laundromat during remote schooling. Melissa, living as Mira Collins, wears a plain T-shirt and hoodie, seated among laptops, a tablet, ring light, grey backdrop, routers, cables, an open school portal, and a synthetic adult face model on a shelf. Morning city light and multiple glowing rectangles frame the moment she realizes video cannot replace an adult body.
+Scene: United States, 2021, a narrow studio apartment above a laundromat during remote schooling. Melissa, living as Mira Collins, wears a plain hoodie, seated among laptops, a tablet, ring light, grey backdrop, routers, cables, an open school portal, and a neutral face-reference model on a shelf. Morning city light and multiple glowing rectangles frame the moment she realizes video alone cannot solve her need for a real-world representative.
