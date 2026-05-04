@@ -15,7 +15,10 @@ The story chapters in this repository are currently in Russian, even though this
 Russian-language story files:
 - [melissa-01.md](melissa-01.md) through [melissa-13.md](melissa-13.md)
 - [melissa-all.md](melissa-all.md) — merged manuscript
+- [melissa-all-illustrated.md](melissa-all-illustrated.md) — merged manuscript with available chapter illustrations
 - [melissa-index.md](melissa-index.md) — chapter index and planning overview
+- [melissa-all.pdf](melissa-all.pdf) — PDF export of the merged manuscript
+- [melissa-all-illustrated.pdf](melissa-all-illustrated.pdf) — PDF export with available illustrations
 
 Russian-language support files:
 - [movements.md](movements.md) — movement map and route logic
@@ -24,6 +27,7 @@ Russian-language support files:
 English-language working notes:
 - [ideas.md](ideas.md) — canon constraints, source hierarchy, and expansion notes
 - [writing-guidelines.md](writing-guidelines.md) — practical drafting and revision guide for the Melissa cycle
+- [docs/chapter-images/README.md](docs/chapter-images/README.md) — chapter illustration prompts and image comparison table
 
 ---
 

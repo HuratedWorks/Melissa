@@ -95,3 +95,11 @@ Melissa description: Melissa has a fixed character design: a short, slim teenage
 Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
 
 Scene: United States, 2021, a narrow studio apartment above a laundromat during remote schooling. Melissa, living as Mira Collins, wears a plain hoodie, seated among laptops, a tablet, ring light, grey backdrop, routers, cables, an open school portal, and a neutral face-reference model on a shelf. Morning city light and multiple glowing rectangles frame the moment she realizes video alone cannot solve her need for a real-world representative.
+
+## Chapter 13
+
+Melissa description: Melissa has a fixed character design: a short, slim teenage-looking girl about 145 cm tall, with pale olive skin, faint freckles, an oval face, a small straight nose, watchful grey-green eyes, and straight ash-brown hair; her expression is calm, guarded, and older than her face.
+
+Visual style: cinematic realism with a subtle speculative tone, painterly detail, natural light, muted period-accurate colors, tactile textures, no glamour, no anime, no text, no watermark.
+
+Scene: Pennsylvania, 1768, a rain-damp German colonial farmhouse kitchen during a tense dress fitting. Melissa, living as Ruth Miller, wears a plain homespun dress, simple cap, and worn apron, standing on a low stool while a stern farm woman measures grey-blue cloth beside a table with flour dust, pewter cups, folded fabric, a ledger, and a hidden dark wrapped vessel half-visible in a basket. A window looks toward muddy fields, a waiting road, and the implied escape route; no readable text, no signs, no watermark.
