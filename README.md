@@ -23,6 +23,7 @@ Russian-language support files:
 
 English-language working notes:
 - [ideas.md](ideas.md) — canon constraints, source hierarchy, and expansion notes
+- [writing-guidelines.md](writing-guidelines.md) — practical drafting and revision guide for the Melissa cycle
 
 ---
 
