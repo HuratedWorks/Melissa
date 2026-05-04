@@ -417,6 +417,23 @@ If new chapters are added later:
   - quiet fixer
   - pseudonymous technical contributor
 
+### H. Marriage as false adulthood
+
+- Historical marriage rules and custom can make Melissa's paper age dangerous in a different way:
+  - adults may treat a nearly-fourteen-year-old girl as marriageable
+  - marriage can look like a path into adult legal status
+  - for Melissa it is actually a tighter cage than ordinary guardianship
+- Core reason:
+  - a husband, children, neighbors, household work, and church / civil records create constant close-range observation
+  - the body problem becomes impossible to hide after a few years
+  - the husband would be closer than any clerk, teacher, or hired adult proxy
+- Best story use:
+  - forced or arranged marriage as a danger she narrowly escapes
+  - no erotic framing
+  - focus on debt, household control, legal status, observation, and escape
+- Implemented in:
+  - `melissa-13.md`, Pennsylvania, 1768
+
 ---
 
 ## Candidate new chapter slate

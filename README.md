@@ -13,7 +13,7 @@ Across roughly 2,600 years — from Athens in the mid-fifth century BC to an ast
 The story chapters in this repository are currently in Russian, even though this README stays in English.
 
 Russian-language story files:
-- [melissa-01.md](melissa-01.md) through [melissa-12.md](melissa-12.md)
+- [melissa-01.md](melissa-01.md) through [melissa-13.md](melissa-13.md)
 - [melissa-all.md](melissa-all.md) — merged manuscript
 - [melissa-index.md](melissa-index.md) — chapter index and planning overview
 
@@ -75,3 +75,7 @@ Melissa falls into the orbit of a private captivity system hidden behind an ordi
 ### 12. [Remote Appearance: USA, 2021](melissa-12.md) _(Russian)_
 
 The pandemic briefly makes Melissa's way of life easier: remote school, remote guardianship, and adult identities that can survive on screens longer than in person. The same period also reveals the new limit of digital autonomy, as liveness checks and KYC systems begin demanding not just a face and a story but a physically coherent adult body.
+
+### 13. [Marriage Record: Pennsylvania, 1768](melissa-13.md) _(Russian)_
+
+A colonial household tries to turn Melissa's paper age into a marriage arrangement that would settle debts and make her legally useful. She recognizes the trap: marriage might count as adulthood to the community, but it would place a constant witness inside the same room as her unchanging body, formula, and hidden records.
