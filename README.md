@@ -31,6 +31,11 @@ English-language working notes:
 
 ---
 
+## Utility Scripts
+
+- [merge.sh](merge.sh) — use `./merge.sh all` to join chapter Markdown files into `melissa-all.md`.
+- [export.sh](export.sh) — use `./export.sh pdf` to convert `melissa-all.md` and `melissa-all-illustrated.md` to PDF on Linux or macOS.
+
 ## Chapters
 
 ### 1. [Transit: Buenos Aires, 1924](melissa-01.md) _(Russian)_
